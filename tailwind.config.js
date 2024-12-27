@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       fontFamily: {
         'press-start': ['"Press Start 2P"', 'cursive'],
-        'cursive': ['cursive'],
+        'cursive': ['Basic'],
       },
       
     },
